@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a First year CSE student passionate about codi
 - Memory Management (Dynamic Allocation)
 - Backend Networking (Sockets)
 - Data Structures and Algorithms
+- Basic Machine Learning models
 
 ---
 
