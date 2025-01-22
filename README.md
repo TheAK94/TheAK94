@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a First year CSE student passionate about codi
 - C++
 - Python
 - HTML, CSS, JavaScript
+- SQL
 
 ### Concepts I'm Working On:
 - Object-Oriented Programming (OOP)
