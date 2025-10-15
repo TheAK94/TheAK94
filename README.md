@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atharva!
 
-Welcome to my GitHub profile! I'm a First year CSE student passionate about coding, problem-solving, and building impactful projects. I'm on a journey to hone my programming skills and become an exceptional software engineer.
+Welcome to my GitHub profile! I'm a Second year CSE student passionate about coding, problem-solving, and building impactful projects. I'm on a journey to hone my programming skills and become an exceptional software engineer.
 
 ---
 
